@@ -1,0 +1,24 @@
+<!-- Ceci est un commentaire -->
+<!DOCTYPE html>
+<html>
+    <head>
+        <!-- Très clairement, c'est le titre. -->
+        <meta charset="utf-8" />
+        <title>Ce monde est cruel</title>
+    </head>
+
+    <body>
+    <!-- Corps de la page, je dois tout écrire ici. -->
+    Bienvenue sur mes premiers test de codage !
+    Ici, rien n'est pris au sérieux par moi-même.
+    Je fais tout mon possible pour que cela soit le moins sérieux possible, donc..
+    Ne vous étonnez pas si c'est écrit en français ou en anglais à certains endroits !
+    Cet endroit me servira comme un fichier README, sauf qu'il n'en est pas.
+    
+    Welcome to my first coding test!
+    Here, nothing is taken seriously by myself.
+    I'm doing my best to make it as quiet as possible, so ..
+    Do not be surprised if it's written in French or English in some places!
+    This place will serve me as a README file, except that it is not.
+    </body>
+</html>
