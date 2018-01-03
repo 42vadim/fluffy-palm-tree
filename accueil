@@ -1,10 +1,4 @@
-<!-- Ceci est un commentaire -->
-<!DOCTYPE html>
-<html>
-    <head>
-        <!-- Très clairement, c'est le titre. -->
-        <meta charset="utf-8" />
-        <title>Ce monde est cruel</title>
+<title>Ce monde est cruel</title>
     </head>
 
     <body>
@@ -17,20 +11,23 @@
     Ici, rien n'est pris au sérieux par moi-même.
     Je fais tout mon possible pour que cela soit le moins sérieux possible, donc..
     Ne vous étonnez pas si c'est écrit en français ou en anglais à certains endroits !
-    Cet endroit me servira comme un fichier README, sauf qu'il n'en est pas.</p>
+    Cet endroit me servira comme un fichier README, sauf qu'il n'en est pas.
+    <span style="background:#FFF8DC">Ceci est un test !</span>
+    </p>
 
     <p>Welcome to my first coding test!
     Here, nothing is taken seriously by myself.
     I'm doing my best to make it as quiet as possible, so ..
     Do not be surprised if it's written in French or English in some places!
-    This place will serve me as a README file, except that it is not.</p>
-    
-    <p>
-    Voici mon profil <a href="https://www.facebook.com/hirominimbleness.ether.7">Facebook</a> pour toute les intéressées !
-    <em>Seulement les filles, je suis pas homosexuel, c'est pour ça que j'ai mis "ées" a intéressées, pour prouver que c'est un groupe au féminin et au pluriel. Petit cours de français juste comme ça</em>
-
+    This place will serve me as a README file, except that it is not.
+    <span style="background:#FFF8DC">This is a test !</span>
     </p>
     
+    <p>
+    Voici mon profil <a href="https://www.facebook.com/hirominimbleness.ether.7" title="Si vous cliquez vous ne verrez malheureusement pas ma tête pour le moment, c'est dommage, n'est-ce pas ?">Facebook</a> pour toute les intéressées !
+    <em>Seulement les filles, je suis pas homosexuel, c'est pour ça que j'ai mis "ées" a intéressées, pour prouver que c'est un groupe au féminin et au pluriel. Petit cours de français juste comme ça</em>
+    </p>
+
     <h2>Arthur Rimbaud - Le Dormeur du Val</h2>
     <p>
         <em>
@@ -52,6 +49,7 @@
             <br>Il dort dans le soleil, la main sur sa poitrine,
             <br>Tranquille. Il a deux trous rouges au côté droit.
         </em>
+    </p>
     </body>
     <img src="http://image.noelshack.com/fichiers/2018/01/3/1515006560-0b28c11407dca9787083c2edb00db12d-hamtaro-pig-stuff.jpg">
 </html>
